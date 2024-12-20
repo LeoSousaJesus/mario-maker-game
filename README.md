@@ -52,5 +52,5 @@ Abaixo está a organização das pastas e arquivos do projeto:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/LeoSousaJesus/mario-maker-game.git
 
